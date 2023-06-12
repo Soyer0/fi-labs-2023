@@ -1,0 +1,7 @@
+﻿/desktop.ini
+*.csproj
+*.sln
+**/bin/
+**/obj/
+**/.vs/
+
